@@ -21,7 +21,7 @@ public class App {
     	
     	 
     	 
-    	 driver.get("http://54.224.7.42:8081/contact.html");
+    	 driver.get("http://98.83.106.68:8081/contact.html");
     	 
     	 System.out.println(driver.getTitle());
     	    
